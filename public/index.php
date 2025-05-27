@@ -1,6 +1,6 @@
 <?php  
 session_start();
-require_once '../app/Classess/VehicleManager.php';
+require_once '../app/Classes/VehicleManager.php';
 
 $vehicleManager = new VehicleManager('','','', '');
 $vehicles = $vehicleManager->getVehicles();

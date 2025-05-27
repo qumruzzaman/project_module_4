@@ -1,6 +1,6 @@
 <?php
 session_start();
-include_once '../../app/Classess/VehicleManager.php';
+include_once '../../app/Classes/VehicleManager.php';
 
 $newVehicle = [
     "name" => "Tesla Model S",

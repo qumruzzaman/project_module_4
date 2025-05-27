@@ -1,8 +1,8 @@
 <?php
 session_start();
-include_once '../../app/Classess/VehicleManager.php';
+include_once '../../app/Classes/VehicleManager.php';
 
-$id = 0;
+$id = 2;
 // $updatedVehicle = [
 //     "name" => "Tesla Model S",
 //     "type" => "Electric",

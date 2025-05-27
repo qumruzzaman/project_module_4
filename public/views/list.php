@@ -1,6 +1,6 @@
 <?php
 
-include_once '../../app/Classess/VehicleManager.php';
+include_once '../../app/Classes/VehicleManager.php';
 
 $vehicleManger = new VehicleManager('','','','');
 $vehicles = $vehicleManger->getVehicles();
