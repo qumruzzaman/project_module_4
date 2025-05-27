@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Tesla Model S",
+        "type": "Electric",
+        "price": 79999,
+        "image": "https:\\\/\\\/shorturl.at\\\/2a8hm"
+    },
+    {
+        "name": "BMW i3",
+        "type": "Electric",
+        "price": 400002,
+        "image": "https:\\\/\\\/shorturl.at\\\/Kn89z"
+    }
+]
